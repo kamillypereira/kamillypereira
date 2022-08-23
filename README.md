@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @kamillypereira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kamillypereira/kamillypereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-# SOBRE MIM!
+- 👋 Ola meu nome é kamilly pereira.
+- :+1: meu gmail de contato é kamilly.pereira.machado@escola.pr.gov.br.
+- 👀 Eu estou interessada em aprender novas linguagens.  
+- 🌱 Eu estou aprendendo a programar recentimente a linguagem de scrat.
